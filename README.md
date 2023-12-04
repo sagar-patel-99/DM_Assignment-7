@@ -13,5 +13,4 @@ Google Colab Workbook -
 
 ## Task 3 - Dimensionality Reduction Using Data Bricks
 
-Google Colab Workbook - 
-[![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iZgloMI_SiZVMf2wVOu9C0O5348wiuzx?usp=sharing)
+Databricks Notebook - https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4621429158335133/1148745857916892/8787604284069095/latest.html
